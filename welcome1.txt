@@ -1,3 +1,0 @@
-welcome to GIT1
-
-I am learning DEVOPS111..
