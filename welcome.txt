@@ -2,4 +2,4 @@ welcome to GIT
 
 I am learning DEVOPS..
 
-deleteing text 
+checking trigger emails once commits automatically 
